@@ -1,1 +1,1 @@
-printf("Hello I am Rutu");
+print("Hello I am Rutu");
